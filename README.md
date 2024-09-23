@@ -1,16 +1,12 @@
-## Hi there 👋
+## Merhaba. 👋
+Ben Minuslar. Discord üzerinde projelerimi sunan bir geliştiriciyim. Kendi emeklerimle Minuslar Studio'yu kurdum.
+Bildiğim Yazılım dilleri:
+Python, JavaScript, HTML, Css, C#, Lua, Php
+Bildiğim Teknolojiler:
+Node.js, Express.js, django, PyQt5, SQL, MongoDB, Visual Studio, .NET Framework, Veri Bilimi, Makine Öğrenimi.
+Şu aralar kendi Tarayıcımı yapmak ile uğraşıyorum.
 
-<!--
-**Minuslar62382/Minuslar62382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aşağıda Sosyal medya hesaplarım;
+Discord: https://discord.gg/WSj8cdxukA
+İnstagram: https://www.instagram.com/batuhancode.js/
+X; https://x.com/Minuslarcode
